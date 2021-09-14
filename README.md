@@ -1,0 +1,3 @@
+- Chrisgone here!
+- I am interested in machine learning in python!
+- Collaboration all welcome.
